@@ -52,13 +52,15 @@ export default function Home() {
             </div>
           </div>
 
-          <hr className='mx-6' />
 
           <div className='w-full px-5 mt-8 lg:px-20'>
-            <div className='flex items-center gap-2'>
+            <hr />
+            <div className='flex items-center gap-2 my-6'>
               <span className='border-r-4 border-yellow-500  h-4'></span>
               <p className='font-bold text-[#605d64] text-lg'>Top Ranking</p>
             </div>
+
+            <hr />
 
             <div className='mt-5 flex flex-col space-y-4'>
               <div className='flex items-center justify-start gap-4 my-2'>
