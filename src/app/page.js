@@ -62,8 +62,8 @@ export default function Home() {
 
             <hr />
 
-            <div className='mt-5 flex flex-col space-y-4'>
-              <div className='flex items-center justify-start gap-4 my-2'>
+            <div className='mt-5 flex flex-col space-y-3'>
+              <div className='flex items-center justify-start gap-4'>
                 <p className='text-base font-bold text-[#523b90]'>#1</p>
                 <div className='text-base flex items-center gap-4'>
                   <img
@@ -77,6 +77,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+              <hr />
 
               <div className='flex items-center justify-start gap-4 my-2'>
                 <p className='text-base font-bold text-[#523b90]'>#2</p>
@@ -92,6 +93,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+              <hr />
 
               <div className='flex items-center justify-start gap-4 my-2'>
                 <p className='text-base font-bold text-[#523b90]'>#3</p>
@@ -107,6 +109,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+              <hr />
 
               <div className='flex items-center justify-start gap-4 my-2'>
                 <p className='text-base font-bold text-[#523b90]'>#4</p>
@@ -122,6 +125,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+              <hr />
 
               <div className='flex items-center justify-start gap-4 my-2'>
                 <p className='text-base font-bold text-[#523b90]'>#5</p>
@@ -137,6 +141,7 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+              <hr />
 
               <div className='flex items-center justify-start gap-4 my-2'>
                 <p className='text-base font-bold text-[#523b90]'>#6</p>
